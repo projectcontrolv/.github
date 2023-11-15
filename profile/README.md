@@ -1,4 +1,5 @@
 ## 👋 Let's get acquainted
+Lorem ipsum
 
 ## 👉 Join our community
 
